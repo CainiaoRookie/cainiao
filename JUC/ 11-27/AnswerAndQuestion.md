@@ -1,4 +1,4 @@
-###  volatile,DCL
+## volatile,DCL
 **1.volatile如何禁止重排序：**   
 volatile禁止重排序的规则：   
 1.第一个操作是volatile读，无论第二个操作是什么，都禁止重排序   

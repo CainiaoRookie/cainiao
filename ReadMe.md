@@ -5,7 +5,7 @@ We are cainiaoRookie
 > Books中存放分布式技术学习和书籍阅读后笔记、总结和一些面试搜集的问题，具体查看Books中ReadMe.md  
 > Internet中存放分布式技术等相关的学习总结  
 > JUC中存放系列学习内容，包括系列学习总结+优秀博文搜集等  
-> Other中收藏优秀的博文地址，收藏格式参考里面内容
+> Collection中收藏优秀的博文地址，收藏格式参考里面内容
 
 ## Books内容
 |书籍|目录|进度|

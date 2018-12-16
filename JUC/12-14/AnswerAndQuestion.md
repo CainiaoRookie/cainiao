@@ -1,0 +1,6 @@
+## ArrayBlockingQueue、SynchronousQueue、HashTable
+### 介绍下ArrayBlockingQueue
+ArrayBlockingQueue是由数组实现的有界阻塞队列，采用先进先出。ArrayBlockingQueue创建了就不能改变容量大小。当队列容量满时，尝试将元素放入队列将导致操作阻塞，尝试从一个空队列中取一个元素也会同样阻塞。
+### 介绍下SynchronousQueue
+SynchronousQueue没有容量，是即进即出的，与其他BlockingQueue不同，SynchronousQueue是一个不存储元素的BlockingQueue。每一个put操作必须要等待一个take操作，否则不能继续添加元素，反之亦然。因为没有容量，所以对应 peek, contains, clear, isEmpty等方法都是无效的。
+SynchronousQueue分为公平和非公平，非公平使用 TransferQueue, 则队列中永远会存在一个 dummy node。公平使用SynchronousQueue，它非常适合做交换工作，生产者的线程和消费者的线程同步以传递某些信息、事件或者任务。

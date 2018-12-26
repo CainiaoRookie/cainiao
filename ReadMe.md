@@ -10,8 +10,9 @@ We are cainiaoRookie
 ## Books内容
 |书籍|目录|进度|
 |------|------|------|
-|从Paxos到Zookeeper分布式一致性原理与实践|Books/Zookeeper|进行中|
-|redis设计与实现|Books/Redis|未开始|
+|从Paxos到Zookeeper分布式一致性原理与实践|Books/Zookeeper|看完|
+|redis设计与实现|Books/Redis|看完|
+|TOMCAT权威指南|Books/tomcat|进行中|
 |深入理解Java虚拟机|Books/JVM|未开始|
 |Netty权威指南|Books/Netty|未开始|
 |图解HTTP|Books/HTTP|未开始|
@@ -34,13 +35,13 @@ We are cainiaoRookie
 |12.14|ArrayBlockingQueue、SynchronousQueue、HashTable|
 |12.19|PriorityBlockingQueue、DelayQueue、LinkedTransferQueue、LinkedBlockingDeque|
 |12.21|回顾BlockingQueue系列|
-|12.26|ConcurrentHashMap（包括部分源码、红黑树转换分析）|
-|12.28|Exchanger、CountDownLatch|
-|1.1|ConcurrentSkipListMap、ConcurrentLinkedQueue|
-|1.4|Semaphore、CyclicBarrier|
-|1.8|回顾并发容器总结|
-|1.11|线程池系列（架构、ThreadPoolExector、ScheduledThreadPoolExecutor）|
-|1.15|总结并制定下个系列排期|
+|1.2|Exchanger、CountDownLatch|
+|1.7|ConcurrentHashMap（包括部分源码、红黑树转换分析）|
+|1.11|ConcurrentSkipListMap、ConcurrentLinkedQueue|
+|1.15|Semaphore、CyclicBarrier|
+|1.18|回顾并发容器总结|
+|1.22|线程池系列（架构、ThreadPoolExector、ScheduledThreadPoolExecutor）|
+|1.25|总结并制定下个系列排期|
 
 ## Spring源码分析 排期
 >暂无

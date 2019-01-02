@@ -24,7 +24,7 @@ We are cainiaoRookie
 |淘宝技术这十年|Books/TaoBao|未开始|
 |大型分布式网站架构设计与实践|Books/分布式|未开始|
 |mycat权威指南|Books/Mycat|未开始|
-|分布式数据库架构及企业实践-基于Mycat中间件|Books/Mycat|未开始|
+|分布式数据库架构及企业实践-基于Mycat中间件|Books/Mycat|进行中|
 |京东技术解密|Books/JD|未开始|
 
 ## Internet内容

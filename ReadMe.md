@@ -12,10 +12,20 @@ We are cainiaoRookie
 |------|------|------|
 |从Paxos到Zookeeper分布式一致性原理与实践|Books/Zookeeper|看完|
 |redis设计与实现|Books/Redis|看完|
-|TOMCAT权威指南|Books/tomcat|进行中|
+|深入浅出mybatis技术原理与实战|Books/Mybatis|未开始|
+|How Tomcat Works|Books/tomcat|未开始|
+|TOMCAT权威指南|Books/tomcat|未开始|
 |深入理解Java虚拟机|Books/JVM|未开始|
 |Netty权威指南|Books/Netty|未开始|
 |图解HTTP|Books/HTTP|未开始|
+|java8实战|Books/JAVA8|未开始|
+|java性能优化权威指南|Books/JAVA性能|未开始|
+|KafaKa技术内幕|Books/KaFaKa|未开始|
+|淘宝技术这十年|Books/TaoBao|未开始|
+|大型分布式网站架构设计与实践|Books/分布式|未开始|
+|mycat权威指南|Books/Mycat|未开始|
+|分布式数据库架构及企业实践-基于Mycat中间件|Books/Mycat|未开始|
+|京东技术解密|Books/JD|未开始|
 
 ## Internet内容
 |技术|目录|进度|

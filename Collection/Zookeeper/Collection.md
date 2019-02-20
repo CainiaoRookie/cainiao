@@ -3,3 +3,5 @@
 >https://mp.weixin.qq.com/s/USfbn0mqI0zWfJBUNEslOQ
 ##### Zookeeper总览
 >https://mp.weixin.qq.com/s/CqMo9mYxwhz3ubRoCWpiUQ
+##### Zookeeper分布式锁
+>https://mp.weixin.qq.com/s/1EM4op1k3Gzi6OOSvoLxBw
